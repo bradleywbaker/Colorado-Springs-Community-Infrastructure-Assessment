@@ -48,7 +48,7 @@ Key components include:
 Colorado-Springs-Community-Infrastructure-Assessment/
 ├── README.md
 └── figures/
-    └── infrastructure_score.png
+    └── Overall_Infrastructure_Score.png
 ```
 
 ## Tools
