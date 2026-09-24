@@ -14,6 +14,12 @@ The assessment examines observable infrastructure characteristics including:
 * Accessibility
 * General infrastructure condition
 
+## Featured Map
+
+![Infrastructure Score](figures/infrastructure_score.png)
+
+The map shows the resulting infrastructure scores across the assessed neighborhoods.
+
 ## Workflow
 
 **Field data collection → Survey123 → ArcGIS Pro → GIS analysis → visualization and interpretation**
@@ -32,12 +38,17 @@ Key components include:
 * GIS-based visualization
 * Neighborhood-level infrastructure assessment
 
+## StoryMap
+
+[View the interactive Colorado Springs Community Infrastructure Assessment StoryMap](https://storymaps.arcgis.com/stories/30d477a1174844039fe4c52f82581207)
+
 ## Repository Contents
 
 ```text
 Colorado-Springs-Community-Infrastructure-Assessment/
 ├── README.md
 └── figures/
+    └── infrastructure_score.png
 ```
 
 ## Tools
