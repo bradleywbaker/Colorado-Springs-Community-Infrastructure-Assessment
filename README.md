@@ -16,7 +16,7 @@ The assessment examines observable infrastructure characteristics including:
 
 ## Featured Map
 
-![Infrastructure Score](figures/infrastructure_score.png)
+![Infrastructure Score](figures/Overall_Infrastructure_Score.png)
 
 The map shows the resulting infrastructure scores across the assessed neighborhoods.
 
